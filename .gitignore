@@ -1,5 +1,4 @@
 node_modules/
-data/collections.json
 package-lock.json
 package-lock.json
 .prettierrc.json
